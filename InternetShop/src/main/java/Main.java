@@ -1,4 +1,3 @@
-package src.main.java;
 import view.impl.LoginMenu;
 
 public class Main {
